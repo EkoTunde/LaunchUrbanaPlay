@@ -1,0 +1,1 @@
+pyinstaller --onefile --hidden-import webbrowser --hidden-import api.secrets --hidden-import google-api-python-client urbana-play-launcher.py

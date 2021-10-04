@@ -1,0 +1,6 @@
+/env
+/dist
+/build
+/api
+*.spec
+__pycache__
